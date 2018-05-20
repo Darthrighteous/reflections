@@ -1,0 +1,2 @@
+when you initialize a repository, it creates an empty git repository.
+

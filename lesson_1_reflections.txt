@@ -1,0 +1,24 @@
+It makes it much easier unlike having to look through 
+each line manually.
+
+Having access to the history makes it easy to see the 
+changes you've made and why, so you dont make the same 
+mistakes when you run into similar problems in future.
+
+Manually committing means user error is possible where you 
+forget to commit a change you've made. It also means you have
+control over when a commit is made and thus all commits makes sense.
+
+This is most likely because in Git, you're more likely to have 
+multiple relating files whereas in google docs, the files 
+are less likely to be related.
+
+you can use git log to view all previous commits to a repository
+you can use git diff to view the difference between commits in the
+repository.
+
+Using version control gives you more freedom to make changes without
+having to worry about breaking something because you can always
+revert to a previous commit and se exactly what went wrong.
+
+I want to use git to version control all my future projects from now on.
