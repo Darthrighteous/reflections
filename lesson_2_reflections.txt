@@ -1,2 +1,9 @@
 when you initialize a repository, it creates an empty git repository.
 
+the staging area is where the files are added before the changes 
+are committed. Working directory is the directory that has the files
+you might be committing. The staging area allows it so you dont have 
+to commit every file in the working directory.
+
+you can stage changes one by one then commit them so you have
+one commit per logical change.
