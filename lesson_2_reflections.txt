@@ -7,3 +7,15 @@ to commit every file in the working directory.
 
 you can stage changes one by one then commit them so you have
 one commit per logical change.
+
+a situation where branches could help keep your history organized 
+is if you wanted to try out an experimental feature, this wouldn't
+affect the master branch (your main working version).
+
+diagrams help you visualize the branch structure so you can
+easily see what commits are accessible from where, and where the
+branches start off from.
+
+merging two branches together result in an addition of the code at the tip of both branches, it is represented in the diagram the way it is because the new merged commit has access to both parent branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
